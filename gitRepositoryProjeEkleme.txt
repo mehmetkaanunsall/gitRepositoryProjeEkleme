@@ -1,0 +1,8 @@
+1) Git den repository oluşturuluyor.
+2) Repository ekleyeceğin dosya yolunda .git dosyası var ise sil.(.git dosyası gizli dosya (gizli dosyları göster açık olmalı)).
+3) git bash here aç.
+4) git init
+5) git add .
+6) git commit -m "first commit"
+7) git remote add origin https://github.com/mehmetkaanunsall/repositoryadi.git
+8) git push -u origin master
